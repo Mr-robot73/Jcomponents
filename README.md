@@ -28,13 +28,13 @@
   CmpButton Nombre_de_la_class = new CmpButton();
 ```
 
-- Cambiar el color del borde
+  - Cambiar el color del borde
 
 ```java
 Nombre_del_componente.setFondoColor(new Color(0, 133, 252));
 ```
 
-- Cambio el color del fondo
+  - Cambio el color del fondo
 
 ```java
 Nombre_del_componente.setBordeColor(new Color(0, 133, 252));
