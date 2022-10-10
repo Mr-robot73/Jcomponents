@@ -5,7 +5,7 @@
 ## **Inicio rápido**
 
 1.Descarguemos el archivo Jcomponents.jar,  habré tu editor de código preferido y arrastra el archivo que descargaste a la carpeta lib de tu proyecto.
-> **[ descargar Jcomponents](https://github.com/Mr-robot73/Jcomponents/raw/main/Jcomponents.jar "descargar el Jcomponents")**
+> **[descargar el Jcomponents](https://github.com/Mr-robot73/Jcomponents/raw/main/Jcomponents.jar "descargar el Jcomponents")**
 
 2.Para usar el Jcomponents importar las librerías
 
